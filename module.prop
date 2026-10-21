@@ -1,0 +1,6 @@
+id=no-heic-encoder
+name=Disable Qualcomm HEIC encoder
+version=1.0
+versionCode=1
+author=manu_romero_411
+description=Hides c2.qti.heic.encoder so apps fall back to JPEG
