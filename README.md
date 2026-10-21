@@ -68,6 +68,8 @@ practice).
    adb push ../no-heic-encoder.zip /sdcard/Download/
    ```
 
+You could also download the repository zip instead.
+
 2. In the Magisk app: **Modules → Install from storage**, pick the zip.
 3. Reboot.
 
@@ -78,7 +80,7 @@ id=no-heic-encoder
 name=Disable Qualcomm HEIC encoder
 version=1.0
 versionCode=1
-author=manu
+author=manu_romero_411
 description=Hides c2.qti.heic.encoder so apps fall back to JPEG
 ```
 
