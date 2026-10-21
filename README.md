@@ -1,4 +1,4 @@
-# no-heic-encoder
+# gauguin-instagram-heic-workaround
 
 A tiny Magisk module that hides the Qualcomm hardware HEIC encoder
 (`c2.qti.heic.encoder`) from Android's codec list, so apps stop crashing the
